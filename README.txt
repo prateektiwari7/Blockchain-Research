@@ -1,1 +1,1 @@
-DataStructure Research in GO Language
+DataStructure Research in Go Language
